@@ -1,0 +1,69 @@
+﻿
+============================================================
+Processing: Snow Man (Account: SNOWMAN)
+============================================================
+X credentials not found. Running in simulation mode.
+Fetching videos from playlist: UUuFPaemAaMR8R5cHzjy23dQ (Full Scan: False)
+Fetched 50 videos from channel.
+Processed 1 relevant videos (Filtered from 50 fetch results).
+
+Updating stats for tracked videos of Snow Man in DB...
+
+[POST] Achievement: 縺・▲縺励ｇ縺ｫ繧ｫ繝ｪ繧ｹ繝槭▲縺ｦ縺ｿ縺溟泄ｶ・・繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan#繧ｬ繝√Ε繝斐Φ #繝繝・け #髦ｿ驛ｨ莠ｮ蟷ｳ @繧ｬ繝√Ε繝斐Φ縺｡繧・ｓ縺ｭ繧句・蠑・(100荳・
+
+[POST] Achievement: 繧ｬ繝√Ε繝斐Φ縺・莠ｺ・・繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan#繧ｬ繝√Ε繝斐Φ #髦ｿ驛ｨ莠ｮ蟷ｳ @繧ｬ繝√Ε繝斐Φ縺｡繧・ｓ縺ｭ繧句・蠑・(200荳・
+
+[POST] Support (100000): Snow Man official縲先擲莠ｬ荳顔ｩｺ謨｣豁ｩ縲大・繝輔Λ繧､繝医〒縺疲ｺ謔ｦ噤 (Rem: 73033)
+[SKIPPED] Post limit reached (3). Skipping: 縺｡繧・▲縺ｨ隕ｳ陦・′螟壹ａ縺ｪ謦ｮ蠖ｱ迴ｾ蝣ｴ・#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan #貂｡霎ｺ鄙泌､ｪ #蜷台ｺ募ｺｷ莠・#逶ｮ鮟定動 #螳ｮ闊俶ｶｼ螟ｪ
+[SKIPPED] Post limit reached (3). Skipping: ・｢Snow Man Dome Tour 2025-2026 ON・｣遖丞ｲ｡蜈ｬ貍・荳驛ｨ逕滄・菫｡
+[SKIPPED] Post limit reached (3). Skipping: 繧ｫ繝ｪ繧ｹ繝樊聴蠖ｱ繝√・繝竅会ｸ条汨#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan #蜷台ｺ募ｺｷ莠・#逶ｮ鮟定動 #螳ｮ闊俶ｶｼ螟ｪ
+[SKIPPED] Post limit reached (3). Skipping: "髻ｳ謨・衍譁ｰ"縺ｫ縺｡縺ｪ繧薙〒繧ｳ繝槫屓縺怜ｯｾ豎ｺ繧偵＠縺ｦ縺ｿ縺溘ｉ兆､昨洸ｷ#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #髻ｳ謨・衍譁ｰ #SnowMan #蟯ｩ譛ｬ辣ｧ #繝ｩ繧ｦ繝ｼ繝ｫ #菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping: 縺ｩ縺・▽繧ゅ％縺・▽繧・razy Crazy man・劇#SnowMan #繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ  #FNS豁瑚ｬ｡逾ｭ #Relaydance
+[SKIPPED] Post limit reached (3). Skipping support: 縺ｩ縺・▽繧ゅ％縺・▽繧・razy Crazy man・劇#SnowMan #繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ  #FNS豁瑚ｬ｡逾ｭ #Relaydance
+[SKIPPED] Post limit reached (3). Skipping: Snow Man official縲宣仭驛ｨ逶ｮ鮟偵・譛ｪ蜈ｬ髢狗┥閧峨代％繧薙↑豌玲戟縺｡縺ｧ鬟溘∋縺ｦ縺ｾ縺・隨・
+[SKIPPED] Post limit reached (3). Skipping: Snow Man縲先昴＞蜃ｺ縺ｮ縺ゅ・蝣ｴ謇縺ｧ窶ｦ辟ｼ閧峨大ｮ悟・繝励Λ繧､繝吶・繝医〒縺吶∩縺ｾ縺帙ｓ
+[SKIPPED] Post limit reached (3). Skipping: 繧ｹ繧ｿ繝ｳ繝玲掠謚ｼ縺励メ繝｣繝ｬ繝ｳ繧ｸ貯 #繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #髻ｳ謨・衍譁ｰ #SnowMan #貂｡霎ｺ鄙泌､ｪ
+[SKIPPED] Post limit reached (3). Skipping: 繝斐Φ繝昴Φ邇峨メ繝｣繝ｬ繝ｳ繧ｸ藷 #逶ｮ鮟定動 邱ｨ巳#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #髻ｳ謨・衍譁ｰ #SnowMan
+[SKIPPED] Post limit reached (3). Skipping support: Snow Man official縲先昴＞蜃ｺ縺ｮ縺ゅ・蝣ｴ謇縺ｧ窶ｦ辟ｼ閧峨大ｮ悟・繝励Λ繧､繝吶・繝医〒縺吶∩縺ｾ縺帙ｓ
+[SKIPPED] Post limit reached (3). Skipping: 繝斐Φ繝昴Φ邇峨メ繝｣繝ｬ繝ｳ繧ｸ藷 #蜷台ｺ募ｺｷ莠・邱ｨｧ｡#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #髻ｳ謨・衍譁ｰ #SnowMan
+[SKIPPED] Post limit reached (3). Skipping: 繝斐Φ繝昴Φ邇峨メ繝｣繝ｬ繝ｳ繧ｸ藷 #螳ｮ闊俶ｶｼ螟ｪ 邱ｨ笶､・・#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #髻ｳ謨・衍譁ｰ #SnowMan
+[SKIPPED] Post limit reached (3). Skipping: 繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ鄒手・ｪｩ#繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan #髻ｳ謨・衍譁ｰ #繝ｩ繧ｦ繝ｼ繝ｫ #貂｡霎ｺ鄙泌､ｪ #蜷台ｺ募ｺｷ莠・
+[SKIPPED] Post limit reached (3). Skipping: ART邏壹き繝ｪ繧ｹ繝橇沽・繧ｫ繝ｪ繧ｹ繝槭ャ繧ｯ繧ｹ #SnowMan #髻ｳ謨・衍譁ｰ #髦ｿ驛ｨ莠ｮ蟷ｳ #逶ｮ鮟定動
+[SKIPPED] Post limit reached (3). Skipping: 窶彜ERIOUS窶・MUSIC VIDEO OFFICIAL TEASER #SnowMan #SnowMan_SERIOUS
+[SKIPPED] Post limit reached (3). Skipping: S笶暦ｸ州笶暦ｸ什笶暦ｸ舟V隕九※縺上ｌ縺滂ｼ・SnowMan #SnowMan_SBY#SnowMan_THEBEST #Shorts#蜷台ｺ募ｺｷ莠・#髦ｿ驛ｨ莠ｮ蟷ｳ #菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping: 縲殺MPIRE縲舟V Behind The Scene縲#SnowMan #SnowMan_EMPIRE #EMPIRE #譛ｬ豌励・縺ｾ縺ｶ縺励＞ #RAYS
+[SKIPPED] Post limit reached (3). Skipping: 縲殺MPIRE縲舟usic Video蜈ｬ髢倶ｸｭ! #SnowMan #SnowMan_EMPIRE #EMPIRE #譛ｬ豌励・縺ｾ縺ｶ縺励＞ #RAYS
+[SKIPPED] Post limit reached (3). Skipping support: 玄縲悟菅縺ｯ蜒輔・繧ゅ・縲庚V迴ｾ蝣ｴ 繝ｩ繧ｹ繧ｵ繝馴｢ｨ譎ｯ 玄#SnowMan#蜷帙・蜒輔・繧ゅ・ #繧ｹ繝弱・蜷帙・繧ゅ・#辭ｱ縺・Φ縺・､上＞諠ｳ縺・
+[SKIPPED] Post limit reached (3). Skipping: 玄縲悟菅縺ｯ蜒輔・繧ゅ・縲庚V scene contents玄#SnowMan#蜷帙・蜒輔・繧ゅ・ #繧ｹ繝弱・蜷帙・繧ゅ・#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#豺ｱ貔､霎ｰ蜩・#蜷台ｺ募ｺｷ莠・
+[SKIPPED] Post limit reached (3). Skipping: 玄縲悟菅縺ｯ蜒輔・繧ゅ・縲庚V scene contents玄#SnowMan#蜷帙・蜒輔・繧ゅ・ #繧ｹ繝弱・蜷帙・繧ゅ・#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#髦ｿ驛ｨ莠ｮ蟷ｳ #螳ｮ闊俶ｶｼ螟ｪ
+[SKIPPED] Post limit reached (3). Skipping: 玄縲悟菅縺ｯ蜒輔・繧ゅ・縲庚V scene contents玄#SnowMan#蜷帙・蜒輔・繧ゅ・ #繧ｹ繝弱・蜷帙・繧ゅ・#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#蟯ｩ譛ｬ辣ｧ #菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping: 玄縲悟菅縺ｯ蜒輔・繧ゅ・縲庚V scene contents玄#SnowMan#蜷帙・蜒輔・繧ゅ・ #繧ｹ繝弱・蜷帙・繧ゅ・ #辭ｱ縺・Φ縺・､上＞諠ｳ縺・#繝ｩ繧ｦ繝ｼ繝ｫ #貂｡霎ｺ鄙泌､ｪ #逶ｮ鮟定動
+[SKIPPED] Post limit reached (3). Skipping: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents笶､・鞘昨沐･~髫縺玲聴繧樫繧ｫ繝｡繝ｩ繝ｯ繝ｼ繧ｯ縺後ヰ繝・メ繝ｪ縺ｮ繝ｩ繧ｦ繝ｼ繝ｫ縺上ｓｦ・SnowMan#BREAKOUT #繧ｹ繝弱・陦晏虚 #辭ｱ縺・Φ縺・､上＞諠ｳ縺・
+[SKIPPED] Post limit reached (3). Skipping: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents 笶､・鞘昨沐･謦ｮ蠖ｱ閠・ｼ壹Λ繧ｦ繝ｼ繝ｫｦ・SnowMan #BREAKOUT #繧ｹ繝弱・陦晏虚#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#SnowMan
+[SKIPPED] Post limit reached (3). Skipping: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents笶､・鞘昨沐･#SnowMan #BREAKOUT #繧ｹ繝弱・陦晏虚 #辭ｱ縺・Φ縺・､上＞諠ｳ縺・#蟯ｩ譛ｬ辣ｧ #豺ｱ貔､霎ｰ蜩・#髦ｿ驛ｨ莠ｮ蟷ｳ #螳ｮ闊俶ｶｼ螟ｪ
+[SKIPPED] Post limit reached (3). Skipping: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents笶､・鞘昨沐･#SnowMan #BREAKOUT #繧ｹ繝弱・陦晏虚 #辭ｱ縺・Φ縺・､上＞諠ｳ縺・#蜷台ｺ募ｺｷ莠・#逶ｮ鮟定動
+[SKIPPED] Post limit reached (3). Skipping: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents笶､・鞘昨沐･#SnowMan #BREAKOUT #繧ｹ繝弱・陦晏虚#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#繝ｩ繧ｦ繝ｼ繝ｫ #貂｡霎ｺ鄙泌､ｪ #菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping support: 笶､・鞘昨沐･縲沓REAKOUT縲・MV Dance contents笶､・鞘昨沐･#SnowMan #BREAKOUT #繧ｹ繝弱・陦晏虚#辭ｱ縺・Φ縺・､上＞諠ｳ縺・#繝ｩ繧ｦ繝ｼ繝ｫ #貂｡霎ｺ鄙泌､ｪ #菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping: 縲撮REAKOUT縲舟usic Video蜈ｬ髢倶ｸｭ! #SnowMan#BREAKOUT#繧ｹ繝弱・陦晏虚#辭ｱ縺・Φ縺・､上＞諠ｳ縺・
+[SKIPPED] Post limit reached (3). Skipping: 縲鮫OVE TRIGGER縲舟usic Video蜈ｬ髢倶ｸｭ!#LOVETRIGGER#LOVE繧稚ogether#繝舌Ξ繝ｳ繧ｿ繧､繝ｳ縺ｫ荳縺､繧√・諱・SnowMan#繝ｩ繧ｦ繝ｼ繝ｫ#貂｡霎ｺ鄙泌､ｪ#蜷台ｺ募ｺｷ莠・
+[SKIPPED] Post limit reached (3). Skipping: 縲鮫OVE TRIGGER縲舟usic Video蜈ｬ髢倶ｸｭ!#LOVETRIGGER#LOVE繧稚ogether#繝舌Ξ繝ｳ繧ｿ繧､繝ｳ縺ｫ荳縺､繧√・諱・SnowMan#豺ｱ貔､霎ｰ蜩・髦ｿ驛ｨ莠ｮ蟷ｳ#逶ｮ鮟定動
+[SKIPPED] Post limit reached (3). Skipping: 縲鮫OVE TRIGGER縲舟usic Video蜈ｬ髢倶ｸｭ!#LOVETRIGGER#LOVE繧稚ogether#繝舌Ξ繝ｳ繧ｿ繧､繝ｳ縺ｫ荳縺､繧√・諱・SnowMan#蟯ｩ譛ｬ辣ｧ#螳ｮ闊俶ｶｼ螟ｪ#菴蝉ｹ・俣螟ｧ莉・
+[SKIPPED] Post limit reached (3). Skipping support: 縲鮫OVE TRIGGER縲舟usic Video蜈ｬ髢倶ｸｭ! #SnowMan#LOVETRIGGER#LOVE繧稚ogether#繝舌Ξ繝ｳ繧ｿ繧､繝ｳ縺ｫ荳縺､繧√・諱・
+[SKIPPED] Post limit reached (3). Skipping: MV謦ｮ蠖ｱ縺ｮ蜷磯俣縺ｧ雕翫▲縺ｦ縺ｿ縺ｾ縺励◆汐兵#繝ｩ繧ｦ繝ｼ繝ｫ#蜷台ｺ募ｺｷ莠・逶ｮ鮟定動#SnowMan#DABOMB#Dangerholic#NewMusic
+[SKIPPED] Post limit reached (3). Skipping: 9th SINGLE縲轡angerholic縲阪ｈ繧翫轡A BOMB縲庚usic Video蜈ｬ髢倶ｸｭ・・SnowMan#DABOMB#Dangerholic #荵昜ｺｺ遨ｶ讌ｵ縺ｮ荵晄椢逶ｮ #縺吶・縺｡繧・・縺ｶ
+[SKIPPED] Post limit reached (3). Skipping: 縲轡angerholic縲庚V陦｣陬・ム繝ｳ繧ｹ蜍慕判蜈ｬ髢倶ｸｭ竭｢#Dangerholic#讌ｽ縺励・縺｣縺ｦ蜍昴■縺ｧ縺励ｇ#豺ｱ貔､霎ｰ蜩・繝ｩ繧ｦ繝ｼ繝ｫ#菴蝉ｹ・俣螟ｧ莉・SnowMan#繧ｹ繝弱・繝ｪ繝繝ｳ繧ｹ#繝医Μ繝ｪ繧ｪ繝ｳ繧ｲ繝ｼ繝
+[SKIPPED] Post limit reached (3). Skipping: 縲轡angerholic縲庚V陦｣陬・ム繝ｳ繧ｹ蜍慕判蜈ｬ髢倶ｸｭ竭｡#Dangerholic#讌ｽ縺励・縺｣縺ｦ蜍昴■縺ｧ縺励ｇ#蟯ｩ譛ｬ辣ｧ#蜷台ｺ募ｺｷ莠・逶ｮ鮟定動#SnowMan#繧ｹ繝弱・繝ｪ繝繝ｳ繧ｹ#繝医Μ繝ｪ繧ｪ繝ｳ繧ｲ繝ｼ繝
+[SKIPPED] Post limit reached (3). Skipping: 縲轡angerholic縲庚V陦｣陬・ム繝ｳ繧ｹ蜍慕判蜈ｬ髢倶ｸｭ竭#Dangerholic#讌ｽ縺励・縺｣縺ｦ蜍昴■縺ｧ縺励ｇ#貂｡霎ｺ鄙泌､ｪ#髦ｿ驛ｨ莠ｮ蟷ｳ#螳ｮ闊俶ｶｼ螟ｪ#SnowMan#繧ｹ繝弱・繝ｪ繝繝ｳ繧ｹ#繝医Μ繝ｪ繧ｪ繝ｳ繧ｲ繝ｼ繝
+[SKIPPED] Post limit reached (3). Skipping: 縲札angerholic縲舟usic Video蜈ｬ髢倶ｸｭ! #SnowMan#Dangerholic#讌ｽ縺励・縺｣縺ｦ蜍昴■縺ｧ縺励ｇ#荵昜ｺｺ遨ｶ讌ｵ縺ｮ荵晄椢逶ｮ#縺吶・縺｡繧・・縺ｶ#MusicVideo
+[SKIPPED] Post limit reached (3). Skipping support: 7/28 23:00蜈ｬ髢九札angerholic縲舟usic Video~繧ｹ繝弱・繝ｪ繝医Ξ繝ｼ繝ｩ繝ｼ~#SnowMan#Dangerholic#縺吶・縺｡繧・・縺ｶ#MusicVideo
+[SKIPPED] Post limit reached (3). Skipping: 7/28 23:00蜈ｬ髢九札angerholic縲舟usic Video~Teaser Trailer~#SnowMan#Dangerholic#縺吶・縺｡繧・・縺ｶ#MusicVideo
+[SKIPPED] Post limit reached (3). Skipping: Snow Man official縲舌Θ繝九ャ繝域峇MV髑題ｳ樔ｼ壹代◎繧薙↑邨・∩蜷医ｏ縺帙懺洟励Ζ繝舌▲繧ｫ繝・さ繧､繧､縲懌勳邏譎ｴ繧峨＠縺・ｸ也阜隕ｳ笨ｨ譛ｬ邱ｨ繝√ぉ繝・け縺励※縺ｭ縺・・#shorts
+[SKIPPED] Post limit reached (3). Skipping: #slow縺ｧsnow縺ｪ繧｢繧､繝・Φ繝・ぅ繝・ぅ縲茎low...縲庚usic Video蜈ｬ髢倶ｸｭ#SnowMan#iDOME#謖代ａ閾ｪ蛻・ｉ縺励＆縺ｫ
+[SKIPPED] Post limit reached (3). Skipping: #繝ｩ繝悶た繝ｳ繧ｰ縺倥ｃ縺ｪ縺上い繧､繧ｽ繝ｳ繧ｰ縲後≠縺・％縺ｨ縺ｰ縲庚usic Video蜈ｬ髢倶ｸｭ磁#SnowMan#iDOME#謖代ａ閾ｪ蛻・ｉ縺励＆縺ｫ
+[SKIPPED] Post limit reached (3). Skipping: Snow Man New Music Video from 3rd Album縲景 DO ME縲・譛・2譌･(豌ｴ)20:00蜈ｬ髢愚泱・SnowMan#iDOME#謖代ａ閾ｪ蛻・ｉ縺励＆縺ｫ
+[SKIPPED] Post limit reached (3). Skipping support: Snow Man縲郡now Labo. S2縲阪Θ繝九ャ繝域峇Music Video髑題ｳ樔ｼ・
+[SKIPPED] Post limit reached (3). Skipping: Snow Man縲粂ELLO HELLO縲庚V Teaser
+[SKIPPED] Post limit reached (3). Skipping: Snow Man縲隈randeur縲庚V Teaser
+[SKIPPED] Post limit reached (3). Skipping: Snow Man縲桑ISSIN窶・MY LIPS縲庚V Teaser
+[SKIPPED] Post limit reached (3). Skipping: Snow Man縲轡.D.縲庚V Teaser
+Check cycle complete.

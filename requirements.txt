@@ -3,3 +3,5 @@ oauth2client
 tweepy
 schedule
 pyyaml
+python-dotenv
+isodate

@@ -2,6 +2,7 @@
 system:
   check_interval_minutes: 60  # チェック間隔（分）
   log_level: "INFO"
+  max_posts_per_run: 3  # 1回の実行での最大投稿数（スパム防止）
 
 # APIキー設定
 api_keys:
