@@ -135,6 +135,7 @@ def check_and_post(full_scan=False, init_mode=False):
         channel_id = target['channel_id']
         hashtags = " ".join(target.get('hashtags', []))
         title_keywords = target.get('title_keywords', [])
+        exclude_keywords = target.get('exclude_keywords', [])  # 除外キーワード
         
         # Custom variables for templates
         custom_vars = target.get('custom_vars', {})
@@ -176,6 +177,11 @@ def check_and_post(full_scan=False, init_mode=False):
             # Filter by title keywords if specified
             if title_keywords:
                 if not any(kw.lower() in title.lower() for kw in title_keywords):
+                    continue
+            
+            # Exclude videos matching exclude_keywords (e.g. 鑑賞会)
+            if exclude_keywords:
+                if any(kw.lower() in title.lower() for kw in exclude_keywords):
                     continue
             
             # Filter out shorts (less than 60 seconds typically)

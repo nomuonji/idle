@@ -21,6 +21,7 @@ targets:
     channel_id: "UCuFPaemAaMR8R5cHzjy23dQ"
     hashtags: ["#SnowMan", "#スノ担と繋がりたい"]
     title_keywords: ["Music Video", "MV", "Multimedia", "Performance Video"]
+    exclude_keywords: ["鑑賞会"]  # これらを含む動画は除外
     
     # --- カスタム変数 (テンプレートで {extra_text} 等として使用可能) ---
     custom_vars:
