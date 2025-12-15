@@ -1,0 +1,117 @@
+# システム全体設定
+system:
+  check_interval_minutes: 60  # チェック間隔（分）
+  log_level: "INFO"
+
+# APIキー設定
+api_keys:
+  youtube:
+    api_key: "" # Set in .env
+  twitter:
+    consumer_key: ""
+    consumer_secret: ""
+    access_token: ""
+    access_token_secret: ""
+
+# 投稿設定
+targets:
+  - artist_name: "Snow Man"
+    account_id: "SNOWMAN"
+    channel_id: "UCuFPaemAaMR8R5cHzjy23dQ"
+    hashtags: ["#SnowMan", "#スノ担と繋がりたい"]
+    title_keywords: ["Music Video", "MV", "Multimedia", "Performance Video"]
+    
+    # --- カスタム変数 (テンプレートで {extra_text} 等として使用可能) ---
+    custom_vars:
+      fan_name: "スノ担"        # ファンネーム
+      oshi_mark: "☃️"           # 推しマーク
+      cheer_msg: "Snow Manしか勝たん👊✨" # 固有の応援メッセージ
+
+    milestones:
+      # 範囲別ルール (上から順にマッチしたものが適用されます)
+      # threshold: この再生数以上なら適用
+      # step: その範囲での刻み幅
+      dynamic_rules:
+        - threshold: 100000000 # 1億回以上 -> 1億回刻み (1億, 2億...)
+          step: 100000000
+        - threshold: 10000000  # 1000万回以上 -> 500万回刻みに変更も可。ここはユーザー要望通り桁上がり(1000万)にするなら 10000000
+          step: 10000000
+        - threshold: 0         # それ未満 (基本) -> 100万回刻み
+          step: 1000000
+
+      initial_target: 1000000
+    support_trigger:
+      - remaining: 100000
+      - remaining: 10000
+
+# メッセージテンプレート
+# 利用可能な変数: 
+#   基本: {artist_name}, {video_title}, {views}, {video_url}, {hashtags}, {target_views}, {remaining}
+#   カスタム: {fan_name}, {oshi_mark}, {cheer_msg}
+templates:
+  achieved:
+    - |
+      🎊【{artist_name}】
+      「{video_title}」が{views}回再生を突破しました！
+      おめでとうございます！ {oshi_mark}✨
+      
+      これからもたくさん愛されますように…🙏
+      {hashtags}
+      {video_url}
+    - |
+      すごい！！✨ 
+      {artist_name} の「{video_title}」がついに{views}回再生達成です！！🚀 
+      みんなで見届けられて幸せ！😭💕 
+      
+      目指せ次は{next_goal}回！？
+      {hashtags} 
+      {video_url}
+    - |
+      ㊗️{views}回再生突破！🎊 
+      
+      📽️ {video_title}
+      
+      たくさん見られて嬉しいですね🥰 
+      これからも回しまくりましょうー！🌀
+      
+      {hashtags} 
+      {video_url}
+    - |
+      Record update. 📈 
+      「{video_title}」 has passed {views} views. 
+      
+      {cheer_msg} ありがとうございます！ 
+      
+      {hashtags} {video_url}
+
+  support:
+    - |
+      🔥【拡散希望】
+      「{video_title}」あと{remaining}回で{target_views}回再生達成です！
+      
+      今こそ団結のとき！みんなで押し上げよう！😤💨 
+      
+      {hashtags} 
+      {video_url}
+    - |
+      もうすぐ！👀 
+      「{video_title}」が{target_views}回まであと少し（残り{remaining}回）です！✨ 
+      
+      隙間時間に1回！{fan_name}の力を見せつけましょう💪
+      {hashtags} 
+      {video_url}
+    - |
+      あと{remaining}回...！
+      「{video_title}」の{target_views}回達成をみんなでプレゼントしましょう🎁💓 
+      
+      届けこの想い！🕊️ 
+      
+      {hashtags} {video_url}
+    - |
+      ⚡️緊急速報⚡️
+      「{video_title}」がもうすぐ{target_views}回再生です！
+      
+      残り: {remaining}回 
+      
+      ラストスパート行きましょう！🏃‍♂️💨
+      {hashtags} {video_url}
